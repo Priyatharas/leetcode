@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyatharas/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -22,10 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyatharas/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Priyatharas/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyatharas/leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
