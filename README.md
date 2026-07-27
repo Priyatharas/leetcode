@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyatharas/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Priyatharas/leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Priyatharas/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyatharas/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Priyatharas/leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyatharas/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyatharas/leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Priyatharas/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 ## Database
