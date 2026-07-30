@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Priyatharas/leetcode/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Priyatharas/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Priyatharas/leetcode/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Priyatharas/leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
