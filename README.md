@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Priyatharas/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Priyatharas/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Priyatharas/leetcode/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Priyatharas/leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyatharas/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyatharas/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyatharas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Priyatharas/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Priyatharas/leetcode/tree/master/0443-string-compression) |
 ## Database
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyatharas/leetcode/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Priyatharas/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
