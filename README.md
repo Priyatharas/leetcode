@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Priyatharas/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priyatharas/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Priyatharas/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Priyatharas/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyatharas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Priyatharas/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyatharas/leetcode/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Priyatharas/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Priyatharas/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Priyatharas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyatharas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyatharas/leetcode/tree/master/0242-valid-anagram) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyatharas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Priyatharas/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Priyatharas/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyatharas/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyatharas/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Priyatharas/leetcode/tree/master/0415-add-strings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyatharas/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyatharas/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
