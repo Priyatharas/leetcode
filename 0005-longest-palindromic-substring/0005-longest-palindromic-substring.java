@@ -4,13 +4,10 @@ class Solution {
         String ans = "";
 
         for (int i = 0; i < s.length(); i++) {
-
             for (int j = i; j < s.length(); j++) {
 
-                String sub = s.substring(i, j + 1);
-
-                if (isPalindrome(sub) && sub.length() > ans.length()) {
-                    ans = sub;
+                if (isPalindrome(s, i, j) && j - i + 1 > ans.length()) {
+                    ans = s.substring(i, j + 1);
                 }
             }
         }
@@ -18,10 +15,7 @@ class Solution {
         return ans;
     }
 
-    public boolean isPalindrome(String s) {
-
-        int left = 0;
-        int right = s.length() - 1;
+    public boolean isPalindrome(String s, int left, int right) {
 
         while (left < right) {
 
