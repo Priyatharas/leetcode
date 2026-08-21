@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Priyatharas/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Priyatharas/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Priyatharas/leetcode/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/Priyatharas/leetcode/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Priyatharas/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 ## Heap (Priority Queue)
 |  |
