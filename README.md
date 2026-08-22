@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Priyatharas/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Priyatharas/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Priyatharas/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyatharas/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Priyatharas/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 ## Heap (Priority Queue)
 |  |
