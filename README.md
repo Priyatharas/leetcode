@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Priyatharas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Priyatharas/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Priyatharas/leetcode/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Priyatharas/leetcode/tree/master/0796-rotate-string) |
 ## Database
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyatharas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Priyatharas/leetcode/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
