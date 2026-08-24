@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyatharas/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Priyatharas/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Priyatharas/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priyatharas/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Priyatharas/leetcode/tree/master/0066-plus-one) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyatharas/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyatharas/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Priyatharas/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
