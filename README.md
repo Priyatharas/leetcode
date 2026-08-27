@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyatharas/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Priyatharas/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Priyatharas/leetcode/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Priyatharas/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
